@@ -10,4 +10,3 @@
 [submodule "micepod-upload-station"]
 	path = micepod-upload-station
 	url = https://github.com/scottcjx/micepod-upload-station.git
-	
