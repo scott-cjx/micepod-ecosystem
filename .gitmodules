@@ -1,0 +1,13 @@
+[submodule "micepod-podprovisioner"]
+	path = micepod-podprovisioner
+	url = https://github.com/scottcjx/micepod-podprovisioner.git
+[submodule "micepod-podextractr"]
+	path = micepod-podextractr
+	url = https://github.com/scottcjx/micepod-podextractr.git
+[submodule "micepod-server"]
+	path = micepod-server
+	url = https://github.com/scottcjx/micepod-server.git
+[submodule "micepod-upload-station"]
+	path = micepod-upload-station
+	url = https://github.com/scottcjx/micepod-upload-station.git
+	
